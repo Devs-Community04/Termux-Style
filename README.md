@@ -1,5 +1,5 @@
 # Termux-Style
-A Python Script developed by <a href="https://github.com/Noob-Hacker71">Md Nayem Sheikh (Noob-Hacker71)</a>. This script has too many option for customize your termux Terminal and Command prompt . Follow me for more ...
+A Python Script developed by <a href="https://github.com/Noob-Hacker71">[Noob-Hacker71]</a>. This script has too many option for customize your termux Terminal and Command prompt . Follow me for more ...
 
 <div align="center">
   <a href=https://facebook.com/community.dev.04">
