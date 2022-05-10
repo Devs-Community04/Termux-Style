@@ -24,14 +24,7 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 
 <a href="https://github.com/Noob-Hacker71"><img title="Republic of Bangladesh" src="https://img.shields.io/badge/REPUBLIC%20OF-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
 
-<h2><i> LOVE WITH ATTITUDE  : </i></h2>
-
-<li><i>JUST KEEP IT UP 🙃</li></i>
-
-<li><i>WORK FOR SUCCESS 😊</li></i>
-
-<li><i>LOVE MY MOM AND DAD 💞</li></i>
-
+<hr>
 <br>
 
 ### Process / Installation>>>>
@@ -53,16 +46,16 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 
 
 '''
+<hr>
 
 
-
-
+<hr>
 
 <div align="center">
 
 <h2>CONTACT WITH US</h2>
 
-<h4><i><b><a href ="https://www.facebook.com/Noob.Hacker71/">NOOB COMMUNITY ©</a></b></i></h4>
+<h4><i><b><a href ="https://www.facebook.com/Noob.Hacker71/">Dev's Community ©</a></b></i></h4>
 
 </div>
 
