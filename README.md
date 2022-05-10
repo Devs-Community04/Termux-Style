@@ -27,7 +27,7 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 <br>
 
 ### Process / Installation>>>>
-'''
+
 
 <p>$ apt update && apt upgrade -y</p>
 
@@ -44,11 +44,9 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 <p>$ python3 Banner.py</p>
 
 
-'''
 <hr>
 
 
-<hr>
 
 <div align="center">
 
@@ -59,3 +57,4 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 </div>
 
 <b>[Note] Allah Is Always Watching you</b>
+<hr>
