@@ -20,9 +20,9 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 
 <a href="https://m.me/community.dev.04"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
 
-<a href="https://fb.com/Noob.Hackrr71"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a>
+<a href="https://www.facebook.com/groups/2078563798832259/?ref=share"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a>
 
-<a href="https://github.com/Noob-Hacker71"><img title="Republic of Bangladesh" src="https://img.shields.io/badge/REPUBLIC%20OF-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
+<a href="https://github.com/Noob-Hacker71"><img title="NOOB Community " src="https://img.shields.io/badge/REPUBLIC%20OF-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
 
 <hr>
 <br>
