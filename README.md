@@ -18,7 +18,7 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 
 <h2>Join Us for more tool</h2>
 
-<a href="https://m.me/ntahsan.nayem"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
+<a href="https://m.me/community.dev.04"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
 
 <a href="https://fb.com/Noob.Hackrr71"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a>
 
@@ -55,7 +55,7 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 
 <h2>CONTACT WITH US</h2>
 
-<h4><i><b><a href ="https://www.facebook.com/Noob.Hacker71/">Dev's Community ©</a></b></i></h4>
+<h4><i><b><a href ="https://www.facebook.com/community.dev.04/">Dev's Community ©</a></b></i></h4>
 
 </div>
 
